@@ -1,0 +1,13 @@
+{
+    "name": "stackout/mt-md",
+    "description": "Laravel package allowing for multi-tenant multi-database connections",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ryan Hein",
+            "email": "admin@heimech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
